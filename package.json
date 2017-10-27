@@ -1,0 +1,22 @@
+{
+  "name": "@quilt9/fccnpm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quilt9/fccNpm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/quilt9/fccNpm/issues"
+  },
+  "homepage": "https://github.com/quilt9/fccNpm#readme",
+  "description": "",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
