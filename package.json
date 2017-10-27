@@ -16,7 +16,5 @@
   },
   "homepage": "https://github.com/quilt9/fccNpm#readme",
   "description": "A repo to work with FCC - Manage Packages with npm",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  }
+  "dependencies": {}
 }
